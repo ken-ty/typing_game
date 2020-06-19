@@ -2,13 +2,19 @@
 マルチスレッドを理解するために作るCUIタイピングゲーム
 
 ## どんなの？
-こんなのです。
+こんなのです。画像左が実行中のプログラム、右がソースコードになります。
 
-画像
+画像１(難易度: 普通のプレイ開始)<br>
+<img src="https://github.com/kentokura/typing_game/blob/master/img/seean1.png" width="480">
+<br>
 
-画像
+画像２(画面1から遷移, 難易度: 簡単のプレイ開始)<br>
+<img src="https://github.com/kentokura/typing_game/blob/master/img/seean2.png" width="480">
+<br>
 
-画像
+画像３(画面2から遷移, ゲームオーバー)<br>
+<img src="https://github.com/kentokura/typing_game/blob/master/img/seean3.png" width="480">
+<br>
 
 ## 使い方
 
